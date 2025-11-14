@@ -6,7 +6,7 @@
   "id": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6Mkrt42fYiwFizLSLBD9HgTujkZD7mxcUCdweDXXTqCN7Xi",
+      "publicKeyMultibase": "z6MkmPvdn2GoPL2zrvAGF7XWabLFazknPkYgHc9HK6u94LBX",
       "controller": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc",
       "id": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc#key-0",
       "type": "Ed25519VerificationKey2020",
