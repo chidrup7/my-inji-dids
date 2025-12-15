@@ -1,6 +1,6 @@
 {
   "assertionMethod": [
-    "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc#key-0"
+    "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc"
   ],
   "service": [],
   "id": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc",
@@ -8,7 +8,7 @@
     {
       "publicKeyMultibase": "z6MkpjZ2Lr3aa87A7HmB9bJfwDJR553hEn2gd3YURdxWTSyW",
       "controller": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc",
-      "id": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc#key-0",
+      "id": "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc#gm0ojxzFdNI7N5CTZ9G9R5fraQr1cx4l5QRs9SHZ7oA",
       "type": "Ed25519VerificationKey2020",
       "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
     }
@@ -18,6 +18,6 @@
   ],
   "alsoKnownAs": [],
   "authentication": [
-    "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc#key-0"
+    "did:web:chidrup7.github.io:my-inji-dids:local-farmer-vc"
   ]
 }
